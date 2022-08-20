@@ -1,0 +1,79 @@
+
+
+.icons h3{
+
+    color:#b8c2cc;
+    opacity: 0.5;
+}
+
+.img{
+    text-align:center;
+}
+.headline {
+    color: rgb(0, 0, 0);
+    font-size: 2.0rem;
+    font-family: system-ui;
+    font-weight: 700;
+    
+}
+.downline{
+    color: black;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+.para .headline{
+    color: rgb(0, 0, 0);
+    text-align:center;
+    padding-bottom: 2rem;
+}
+.para p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 1.5rem;
+    
+}
+.icons :hover{
+    opacity: 1;
+
+}
+.download .img1{
+    border-radius: 25px;
+    width: 270px;
+    height: 80px;
+    
+
+}
+.download .img2{
+    border-radius:25px;
+    width: 270px;
+    height: 80px;
+
+}
+.promo{
+    text-align: center;
+}
+
+.promo .mail{
+    
+    width:22rem;
+    display: inline-flex;
+    text-align: center;
+    
+}
+.email{
+    border-top: 0px;border-left: 0px;border-right: 0px;border-color: aqua;
+    box-shadow: none;
+}
+
+.get{
+    text-align: center;
+    background-color: aqua;
+    color: white;
+}
+.cardtext{
+    text-align: center;
+}
+.graphics{
+    background-color:rgb(241,245,248);
+}
